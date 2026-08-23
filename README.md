@@ -8,19 +8,19 @@ The screenshots below were captured from the running application rather than rec
 
 ### Desktop — Setup Screen
 
-![QuizMaster setup screen on desktop](./screenshots/home-desktop.png)
+![QuizMaster setup screen on desktop](https://private-us-east-1.manuscdn.com/sessionFile/Anc7QtENjLQHzGPBn5ONwi/sandbox/H3KY3p8xZ9wHiuGF1MVEOw-images_1787499892915_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtzcGFjZS9xdWl6LWFwcC9RdWl6LUFwcC1Qcm9qZWN0LW1haW4vc2NyZWVuc2hvdHMvaG9tZS1kZXNrdG9w.png?Expires=1787672935&Signature=MEUCIQCpPA-wjoG3kZeMyGnExTLV6i3SlH1povrsKb1rb9sI4wIgfomQCtSJWpzHnTL1aL7YvZXMP57sz6zV3Xsi7VM09i8_&Key-Pair-Id=K1K5N5YNBUUMMN)
 
 ### Mobile — Responsive Setup Screen
 
-![QuizMaster setup screen on mobile](./screenshots/home-mobile.png)
+![QuizMaster setup screen on mobile](https://private-us-east-1.manuscdn.com/sessionFile/Anc7QtENjLQHzGPBn5ONwi/sandbox/H3KY3p8xZ9wHiuGF1MVEOw-images_1787499892915_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtzcGFjZS9xdWl6LWFwcC9RdWl6LUFwcC1Qcm9qZWN0LW1haW4vc2NyZWVuc2hvdHMvaG9tZS1tb2JpbGU.png?Expires=1787672935&Signature=MEUCIQDvQcr-UEVOzXA0tzw-RDRX-T8zKs94eo7t2N4B4yIB1wIgCCMMqP-7Tytg~hc~IP1Qm-h7zXpMez0gqMSgvlAaq68_&Key-Pair-Id=K1K5N5YNBUUMMN)
 
 ### Desktop — Gameplay
 
-![QuizMaster gameplay screen](./screenshots/quiz-desktop.png)
+![QuizMaster gameplay screen](https://private-us-east-1.manuscdn.com/sessionFile/Anc7QtENjLQHzGPBn5ONwi/sandbox/H3KY3p8xZ9wHiuGF1MVEOw-images_1787499892915_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtzcGFjZS9xdWl6LWFwcC9RdWl6LUFwcC1Qcm9qZWN0LW1haW4vc2NyZWVuc2hvdHMvcXVpei1kZXNrdG9w.png?Expires=1787672935&Signature=MEUCIFPK9eVAGrk3ztQnpWCtZbjQaeZ3jH6KvW9h8jydH72UAiEAgYrHhzTmurEdRDRFKzs7uchSXh30pw5-TegjsbyQ9y4_&Key-Pair-Id=K1K5N5YNBUUMMN)
 
 ### Desktop — Results and Leaderboard
 
-![QuizMaster results screen](./screenshots/results-desktop.png)
+![QuizMaster results screen](https://private-us-east-1.manuscdn.com/sessionFile/Anc7QtENjLQHzGPBn5ONwi/sandbox/H3KY3p8xZ9wHiuGF1MVEOw-images_1787499892915_na1fn_L2hvbWUvdWJ1bnR1L3dvcmtzcGFjZS9xdWl6LWFwcC9RdWl6LUFwcC1Qcm9qZWN0LW1haW4vc2NyZWVuc2hvdHMvcmVzdWx0cy1kZXNrdG9w.png?Expires=1787672935&Signature=MEUCIAkuAW7xPV8kbF03oxJMeK3Ip-3-cLOpvQlR69tgYoToAiEA~2tc3-NWht0U6eGuIfsk3gWuyE-B1YRmR2gryfviSKY_&Key-Pair-Id=K1K5N5YNBUUMMN)
 
 ## LinkedIn Showcase Video
 
@@ -63,7 +63,7 @@ The desktop layout presents the setup and quiz cards in a centered arcade-style 
 
 ## Project Structure
 
-```text
+```
 Quiz-App-Project-main/
 ├── CSS/
 │   └── style.css
@@ -110,6 +110,10 @@ A future iteration could add a question-history review to the results screen, mo
 ## Author
 
 Author information was not included in the supplied project files.
+
+- **GitHub Repository:** [Quiz-App-Project](https://github.com/ZeyadHany268/Quiz-App-Project)
+
+- **Live Demo:** [QuizMaster](https://zeyadhany268.github.io/Quiz-App-Project/)
 
 ## References
 
